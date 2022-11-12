@@ -14,8 +14,7 @@ The screen is an Camera settings screen displaying many Camera function settings
 
 |Generally|New firmware|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Device-Camera setting-no new firmware.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Device-Camera setting-new firmware.PNG %})|
-
+|![](./images/Device-Camera setting-no new firmware.PNG)|![](./images/Device-Camera setting-new firmware.PNG)|
 
 1- Back icon, function button to return to the previous page.
 
@@ -47,8 +46,7 @@ The time-lapse photography function has three states, namely "Clean Timelapse Vi
 
 |Generally|Not move the nozzle|Turn off Timelapse|
 |-|-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Time Lapse Mode - Clean.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Time-lapse photography mode-Normal.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Time-lapse photography mode - OFF.PNG %})|
-
+|![](./images/Time Lapse Mode - Clean.PNG)|![](./images/Time-lapse photography mode-Normal.PNG)|![](./images/Time-lapse photography mode - OFF.PNG)|
 
 4.1-Time-lapse photography mode/off option,
 
@@ -96,7 +94,7 @@ Recommend number: Direct drive extruder: 35mm/s; Bowden Extruder: 45mm/s.
 
 In addition to displaying some basic information, there are three buttons at the bottom, namely soft reset Camera (with or without Wi-Fi information), Restart Camera restart Camera soft button
 
-![Ruby on Rails AWS]({% link /docs/Manual/images/Setting-Camera information.png %})
+![](./images/Setting-Camera information.png)
 
 ### Firmware-Upgrade
 
@@ -104,7 +102,7 @@ When you have the latest firmware, the page will display "The Firmware is the la
 
 |Firmware is not up to date|Firmware is up to date|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Setting-No-last Firmware.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Setting-last Firmware.PNG %})|
+|![](./images/Setting-No-last Firmware.PNG)|![](./images/Setting-last Firmware.PNG)|
 
 ### Share to Your Friends
 
@@ -112,8 +110,7 @@ Complete Camera sharing by clicking the "+" icon and entering the other party's 
 
 |Generallye|After sharing the device|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Share to your friends - no share.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Share to your friends - Share to a single user.PNG %})|
-
+|![](./images/Share to your friends - no share.PNG)|![](./images/Share to your friends - Share to a single user.PNG)|
 
 ### Camera Night Version
 
@@ -121,8 +118,7 @@ Night vision function, there are two modes, color night vision, slight ambient l
 
 |Generallye|Color Night Version|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Setting-Balck-Night Version.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Setting-Night Version.PNG %})|
-
+|![](./images/Setting-Balck-Night Version.PNG)|![](./images/Setting-Night Version.PNG)|
 
 ---
-### Next: [Device-Video window](/just-the-docs/docs/Manual/Beagleprint%20Device%20Video%20window)
+### Next: [Device-Video window](/Beaglecam/docs/Manual/Beagleprint%20Device%20Video%20window.md)

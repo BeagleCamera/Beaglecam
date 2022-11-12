@@ -13,7 +13,7 @@ This layout will show some guide articles from [Beagleprint Guidelines](https://
 
 |Device|FAQ|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Device No-device.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/FAQ.PNG %})|
+|![](./images/Device No-device.PNG)|![](./images/FAQ.PNG)|
 
 ---
-### Next: [Desktop-Upgrade](/just-the-docs/docs/Manual/Beagleprint%20Upgrade)
+### Next: [Desktop-Upgrade](/Beaglecam/docs/Manual/Beagleprint%20Upgrade.md)

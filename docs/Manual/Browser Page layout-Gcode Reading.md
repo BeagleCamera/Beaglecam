@@ -13,7 +13,7 @@ nav_order: 7
 
 The screen is a Gcode file that reads screen displaying Gcode file G instructions, such as a text document to open the viewing file.
 
-![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Gcode Reading-load.png %})
+![](./images/PC/Gcode Reading-load.png)
 
 1-Scroll with the middle mouse button or drag the slider on the right to view the entire Gcode document
 
@@ -22,4 +22,4 @@ The screen is a Gcode file that reads screen displaying Gcode file G instruction
 _Note:In order to keep the content brief, the same content items will not be described again here. If you have any doubts, you can refer to the previous layout introduction._
 
 ---
-### Next: [Setting](/just-the-docs/docs/Manual/Browser%20Page%20Setting)
+### Next: [Setting](/Beaglecam/docs/Manual/Browser%20Page%20Setting.md)

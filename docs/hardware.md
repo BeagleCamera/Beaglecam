@@ -38,4 +38,4 @@ _Note: There may be some stickers in your BeagleCamera package, but it's not sta
 _The Camera comes with a USBTyperA-TyperC cable (Camera power supply cable) and a USBTyperA-Micro cable (serial communication cable) by default._
 ---
 
-### Next: [Quick Start for Beagle Camera](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera)
+### Next: [Quick Start for Beagle Camera](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera.md)

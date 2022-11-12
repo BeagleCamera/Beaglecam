@@ -18,8 +18,7 @@ Find the file list, find the upload file button, click to upload the Gcode file.
 
 |Before|After|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Quick Start for Beagle Camera/Upload Gcode File/images/Upload Gcode File-Before.PNG %})|![Ruby on Rails AWS]({% link /docs/Quick Start for Beagle Camera/Upload Gcode File/images/Upload Gcode File-After.PNG %})|
-
+|![](./images/Upload Gcode File-Before.PNG)|![](./images/Upload Gcode File-After.PNG)|
 
 
 ## Upload Gcode file via PC browser web page
@@ -29,7 +28,6 @@ Find the Printable Files List, find the upload file button, click to upload the 
 
 |Before|After|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Quick Start for Beagle Camera/Upload Gcode File/images/Upload Gcode File-Before (2).png %})|![Ruby on Rails AWS]({% link /docs/Quick Start for Beagle Camera/Upload Gcode File/images/Upload Gcode File-After (2).png %})|
-
+|![](./images/Upload Gcode File-Before (2).png)|![](./images/Upload Gcode File-After (2).png)|
 ----
-### Next: [Start Printing](/just-the-docs/docs/Quick%20Start%20for%20Beagle%20Camera/Start%20Printing)
+### Next: [Start Printing](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Start%20Printing.md)

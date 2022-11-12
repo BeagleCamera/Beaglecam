@@ -13,7 +13,7 @@ The screen is an control screen displaying the work of the main motors and fans.
 
 |Fan Off|Fan On|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Device-Control Page-Fan Off.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Device-Control Page-Fan On.PNG %})|
+|![](./images/Device-Control Page-Fan Off.PNG)|![](./images/Device-Control Page-Fan On.PNG)|
 
 1-Camera returns the video stream window, you can learn more about the printing situation (when you install the Camera next to the printer).
 
@@ -32,4 +32,4 @@ _Note:Back button in the upper left corner, Camera settings buttons in the upper
 7-Fan switch - control the fan on and off
 
 ---
-### Next: [Device-Printable Files List](/just-the-docs/docs/Manual/Beagleprint%20Device%20Printable%20Files%20List)
+### Next: [Device-Printable Files List](/Beaglecam/docs/Manual/Beagleprint%20Device%20Printable%20Files%20List.md)

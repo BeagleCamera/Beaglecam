@@ -14,7 +14,7 @@ nav_order: 8
 
 The screen is an Camera settings screen displaying many Camera function settings such as "Normal Record Setting", Timelapse Setting and Firmware Upgrade, etc.
 
-![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Setting-Camera info.png %})
+![](./images/PC/Setting-Camera info.png)
 
 1-Language-The voice type of the content displayed on the Browser Page layout, currently only supports English
 
@@ -44,7 +44,7 @@ The time-lapse photography function has three states, namely "Clean Timelapse Vi
 
 |Clean Timelapse Video|OFF| 
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Setting-Timelapse Videos-Clean Timelapse Video.png %})|![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Setting-Timelapse Videos-OFF.png %})|
+|![](./images/PC/Setting-Timelapse Videos-Clean Timelapse Video.png)|![](./images/PC/Setting-Timelapse Videos-OFF.png)|
 
 4.1-Time-lapse photography mode/off option,
 
@@ -92,7 +92,7 @@ Recommend number: Direct drive extruder: 35mm/s; Bowden Extruder: 45mm/s.
 
 If you don't find it in the list, you can set "Custom" to customize it
 
-![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Setting-Printer.png %})
+![](./images/PC/Setting-Printer.png)
 
 
 ### Firmware-Upgrade
@@ -101,20 +101,18 @@ When you have the latest firmware, the page will display "The Firmware is the la
 
 |Firmware is not up to date|Firmware is up to date|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Setting-Firmware Upgrade-havenewversion.png %})|![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Setting-Firmware Upgrade-latest.png %})|
-
+|![](./images/PC/Setting-Firmware Upgrade-havenewversion.png)|![](./images/PC/Setting-Firmware Upgrade-latest.png)|
 
 ### Camera Information
 
 In addition to displaying some basic information, there are three buttons at the bottom, namely soft reset Camera (with or without Wi-Fi information), Restart Camera restart Camera soft button
 
-![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Setting-Camera info.png %}
-
+![](./images/PC/Setting-Camera info.png)
 
 ### Save
 
 After the parameters such as Camera Night Version are modified, don't forget to click the save button to complete the modification.
 
-![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Setting-Night Version success save.png %})
+![](./images/PC/Setting-Night Version success save.png)
 
 ---

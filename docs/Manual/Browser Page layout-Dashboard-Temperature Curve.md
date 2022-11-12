@@ -22,16 +22,15 @@ The screen is an information&control screen displaying the actual/desired temper
 
 ## View real-time temperature
 
-![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Dashboard-Temperature Curve-check .png %})
+![](./images/PC/Dashboard-Temperature Curve-check .png)
 
 ## set temperature
 
 |Set hotbed Temperature|Set hotend Temperature|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Dashboard-Temperature Curve-set hotbed.png %})|![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Dashboard-Temperature Curve-set hotend.png %})|
-
+|![](./images/PC/Dashboard-Temperature Curve-set hotbed.png)|![](./images/PC/Dashboard-Temperature Curve-set hotend.png)|
 
 _Note:In order to keep the content brief, the same content items will not be described again here. If you have any doubts, you can refer to the previous layout introduction._
 
 ---
-### Next: [Dashboard-Printable Files List](/just-the-docs/docs/Manual/Browser%20Page%20layout-Dashboard-Printable%20Files%20List)
+### Next: [Dashboard-Printable Files List](/Beaglecam/docs/Manual/Browser%20Page%20layout-Dashboard-Printable%20Files%20List.md)

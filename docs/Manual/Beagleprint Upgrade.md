@@ -13,7 +13,7 @@ This layout will show how to do [Camera Online Upgrade](https://www.youtube.com/
 
 |Device|Upgrade|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Device No-device.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Upgrade.PNG %})|
+|![](./images/Device No-device.PNG)|![](./images/Upgrade.PNG)|
 
 ---
-### Next: [Desktop-About](/just-the-docs/docs/Manual/Beagleprint%20About)
+### Next: [Desktop-About](/Beaglecam/docs/Manual/Beagleprint%20About.md)

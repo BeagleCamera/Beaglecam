@@ -13,7 +13,7 @@ The screen is an information&control screen displaying the video files in the Be
 
 |Generally|After generating video|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Device-Video List - No files.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Device-Video List - have files- download files.PNG %})|
+|![](./images/Device-Video List - No files.PNG)|![](./images/Device-Video List - have files- download files.PNG)|
 
 _Note: The MJPEG format in the time-lapse video may not be played in the default player of the phone._
 
@@ -31,4 +31,4 @@ _Note:Back button in the upper left corner, Camera settings buttons in the upper
 
 
 ---
-### Next: [Device-Printer settings](/just-the-docs/docs/Manual/Beagleprint%20Device%20Printer%20settings)
+### Next: [Device-Printer settings](/Beaglecam/docs/Manual/Beagleprint%20Device%20Printer%20settings.md)

@@ -14,7 +14,7 @@ This guide contains all Browser Page layout,Through the combination of some text
 
 When you get the ip address from the Beagleprint Camera information, and enter the ip address in the browser of any device on the same LAN (google is recommended), you will enter the Camera Brawser Page Layout-Login interface.
 
-![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Browser Page layout-sign in.png %})
+![](./images/PC/Browser Page layout-sign in.png)
 
 1-The default account name is "admin"
 2- Password default "admin"

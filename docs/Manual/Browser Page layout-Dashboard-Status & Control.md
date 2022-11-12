@@ -12,7 +12,7 @@ nav_order: 1
 
 The screen is an information screen && control screen displaying the most important details. They are the video stream returned by the Camera (1), Printer connection status (1) printing progress information (3, 4, 6), the X, Y, Z, E controls for the distance and direction of motor movement (3, 4), the controls for the printed model cooling fans (5) and feature on status.
 
-![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Dashboard-Status-Control-connect.png %})
+![](./images/PC/Dashboard-Status-Control-connect.png)
 
 1-Camera returns the video stream window, you can learn more about the printing situation (when you install the Camera next to the printer).
 
@@ -61,7 +61,8 @@ During/after printing, you can see the print file name, printer progress, printi
 
 During the printing process, the control of the motor and fan will become unavailable.
 
-![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Dashboard-Status-Control-printing.png %})
+![](./images/PC/Dashboard-Status-Control-printing.png)
+
 
 3- Printer name, BeagleCamera by default (you can modify it in the printer settings)
 
@@ -74,4 +75,4 @@ During the printing process, the control of the motor and fan will become unavai
 12.Left Time-Estimated remaining print time
 
 ---
-### Next: [Dashboard-Temperature Curve](/just-the-docs/docs/Manual/Browser%20Page%20layout-Dashboard-Temperature%20Curve)
+### Next: [Dashboard-Temperature Curve](/Beaglecam/docs/Manual/Browser%20Page%20layout-Dashboard-Temperature%20Curve.md)

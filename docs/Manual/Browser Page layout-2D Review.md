@@ -14,8 +14,7 @@ This is a Gcode file preview page (2D), you can use this page to quickly check t
 
 |Generally|After Load/print File|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/PC/2D Review-load-nothing.png %})|![Ruby on Rails AWS]({% link /docs/Manual/images/PC/2D Review-load-Printer info.png %})|
-
+|![](./images/PC/2D Review-load-nothing.png)|![](./images/PC/2D Review-load-Printer info.png)|
 
 1- Horizontal slider - drag the slider to check the printing order of the nozzles of this layer
 
@@ -29,7 +28,7 @@ This is a Gcode file preview page (2D), you can use this page to quickly check t
 
 |Model info|Layer info|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/PC/2DReview-load-Model info.png %})|![Ruby on Rails AWS]({% link /docs/Manual/images/PC/2D Review-load-Layer info.png %})|
+|![](./images/PC/2DReview-load-Model info.png)|![](./images/PC/2D Review-load-Layer info.png)|
 
 5-Model info- Information about model size, material length type, printing time, layer height, number of layers, material cost, time cost, etc.
 
@@ -37,7 +36,7 @@ This is a Gcode file preview page (2D), you can use this page to quickly check t
 
 |Option|Analyzer options|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/PC/2D Review-load-2D Render options.png %})|![Ruby on Rails AWS]({% link /docs/Manual/images/PC/2D Review-load-Gcode analyzer options.png %})|
+|![](./images/PC/2D Review-load-2D Render options.png)|![](./images/PC/2D Review-load-Gcode analyzer options.png)|
 
 7-2D Render options- You can get the best viewing effect by modifying the settings such as Speed ​​display type, Emulate extrusion width, Render lines slightly transparent, Show +1 layer, etc.
 
@@ -48,4 +47,4 @@ This is a Gcode file preview page (2D), you can use this page to quickly check t
 _Note:In order to keep the content brief, the same content items will not be described again here. If you have any doubts, you can refer to the previous layout introduction._
 
 ---
-### Next: [3D Review](/just-the-docs/docs/Manual/Browser%20Page%20layout-3D%20Review)
+### Next: [3D Review](/Beaglecam/docs/Manual/Browser%20Page%20layout-3D%20Review.md)

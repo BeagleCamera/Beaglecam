@@ -14,7 +14,7 @@ This is a Gcode file preview page (3D), you can use this page to quickly check t
 
 |Generally|After Load/print File|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/PC/3D Review-nothing.png %})|![Ruby on Rails AWS]({% link /docs/Manual/images/PC/3D Review-load.png %})|
+|![](./images/PC/3D Review-nothing.png)|![](./images/PC/3D Review-load.png)|
 
 Operation method, move the mouse to the frame.
 
@@ -32,4 +32,4 @@ Operation method, move the mouse to the frame.
 _Note:In order to keep the content brief, the same content items will not be described again here. If you have any doubts, you can refer to the previous layout introduction._
 
 ---
-### Next: [Gcode Reading](/just-the-docs/docs/Manual/Browser%20Page%20layout-Gcode%20Reading)
+### Next: [Gcode Reading](/Beaglecam/docs/Manual/Browser%20Page%20layout-Gcode%20Reading.md)

@@ -13,8 +13,7 @@ The screen is an information&control screen displaying the actual/desired temper
 
 |Generally|Target temperature|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Device-Temperture-no target temperature.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Device-Temperture- target temperature.PNG %})|
-
+|![](./images/Device-Temperture-no target temperature.PNG)|![](./images/Device-Temperture- target temperature.PNG)|
 
 1-Camera returns the video stream window, you can learn more about the printing situation (when you install the Camera next to the printer).
 
@@ -31,4 +30,4 @@ _Note:Back button in the upper left corner, Camera settings buttons in the upper
 6-Camera function button for connecting to the printer (Connect/Disconnect)
 
 ---
-### Next: [Device-Control](/just-the-docs/docs/Manual/Beagleprint%20Device%20Control)
+### Next: [Device-Control](/Beaglecam/docs/Manual/Beagleprint%20Device%20Control.md)

@@ -15,9 +15,7 @@ Beagleprint is an application with an easy and clean interface to watch the real
 
 For Apple phones, you can search for "Beagleprint" in the app store to download and install. For Android phones, you can search for "Beagelrpint" in Google Play to download, or download the [APK file](https://www.3dprinteraccessories.shop/pages/download) for installation.[Instructional video](https://www.youtube.com/watch?v=PKNqwQTrR9c&list=PLSc0XAQ8RossfF7Z-SkeIvYP2vs1O8vf-&index=13){: .btn .btn-green .mr-4 }
 
-![Ruby on Rails AWS]({% link /docs/Quick Start for Beagle Camera/Install Beagleprint/images/Install Beagleprint.png %})
-
-
+![](./images/Install Beagleprint.png)
 
 ## Register an account and log in
 
@@ -26,17 +24,15 @@ For Apple phones, you can search for "Beagleprint" in the app store to download 
 
 | Register | log in |
 |--|--|
-|![Ruby on Rails AWS]({% link /docs/Quick Start for Beagle Camera/Install Beagleprint/images/Register an account.PNG %})|![Ruby on Rails AWS]({% link /docs/Quick Start for Beagle Camera/Install Beagleprint/images/Log in.PNG %})|
+|![](./images/Register an account.PNG)|![](./images/Log in.PNG)|
 
 
 
 
-
-
-[Having trouble registering an account?](/just-the-docs/docs/FAQ)
+[Having trouble registering an account?](/Beaglecam/docs/FAQ)
 
 ----
 
-### Next: [QR Scan configuration](/just-the-docs/docs/Quick%20Start%20for%20Beagle%20Camera/Camera%20Networking)
+### Next: [QR Scan configuration](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Camera%20Networking.md)
 
 ----

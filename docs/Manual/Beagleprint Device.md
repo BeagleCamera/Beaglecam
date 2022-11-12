@@ -17,7 +17,8 @@ You can find the button of the device in the upper right corner, or click the "A
 
 |Home|Camera connect|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Device No-device.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Camera connect.PNG %})|
+|![](./images/Device No-device.PNG)|![](./images/Camera connect.PNG)|
+
 
 ### Device View
 
@@ -25,8 +26,7 @@ When you have finished adding Camera, The screen is an information screen displa
 
 |One|Multi|Printing|
 |-|-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Device One-device.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Device Multi-device.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Device-Printing-multiDevice.PNG %})|
-
+|![](./images/Device One-device.PNG)|![](./images/Device Multi-device.PNG)|![](./images/Device-Printing-multiDevice.PNG)|
 
 1- Device status (Online/Offline, this is based on whether Beagleprint can find the Camera in the server)
 
@@ -48,8 +48,7 @@ You can click on the device to enter the device's control screen.
 
 |Device|Dash board|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Device One-device.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Device-Dash board-noprint.PNG %})|
-
+|![](./images/Device One-device.PNG)|![](./images/Device-Dash board-noprint.PNG)|
 
 ### Device Management - Delete Camera
 
@@ -57,7 +56,7 @@ You can touch a single device for 3 seconds to trigger a pop-up window to confir
 
 |Device|Dash board|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Device One-device.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Device One-device-Delete.PNG %})|
+|![](./images/Device One-device.PNG)|![](./images/Device One-device-Delete.PNG)|
 
 ---
-### Next: [Desktop-FAQ](/just-the-docs/docs/Manual/Beagleprint%20FAQ)
+### Next: [Desktop-FAQ](/Beaglecam/docs/Manual/Beagleprint%20FAQ.md)

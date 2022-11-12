@@ -13,7 +13,7 @@ The screen is an information screen displaying the most important details. They 
 
 |Dash board|Dash board-Printing|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Device-Dash board-noprint.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Device-Printing-Dash.PNG %})|
+|![](./images/images/Device-Dash board-noprint.PNG)|![](./images/Device-Printing-Dash.PNG)|
 
 1-Camera returns the video stream window, you can learn more about the printing situation (when you install the Camera next to the printer).
 
@@ -49,4 +49,4 @@ _Note:Back button in the upper left corner, Camera settings buttons in the upper
 
 
 ---
-### Next: [Device-Temperature](/just-the-docs/docs/Manual/Beagleprint%20Device%20Temperature)
+### Next: [Device-Temperature](/Beaglecam/docs/Manual/Beagleprint%20Device%20Temperature.md)

@@ -13,8 +13,7 @@ The screen is an information&control screen displaying the Printable Files (incl
 
 |Generally|After uploading the file|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Device-File List - No Files.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Device-File List - Multiple Files.PNG %})|
-
+|![](./images/Device-File List - No Files.PNG)|![](./images/Device-File List - Multiple Files.PNG)|
 
 1-Camera returns the video stream window, you can learn more about the printing situation (when you install the Camera next to the printer).
 
@@ -32,4 +31,4 @@ _Note:Back button in the upper left corner, Camera settings buttons in the upper
 
 
 ---
-### Next: [Device-Video list](/just-the-docs/docs/Manual/Beagleprint%20Device%20Video%20list)
+### Next: [Device-Video list](/Beaglecam/docs/Manual/Beagleprint%20Device%20Video%20list.md)

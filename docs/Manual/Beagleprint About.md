@@ -13,8 +13,7 @@ The screen is an information screen displaying the Beagleprint app.They are the 
 
 |Device|About|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Device No-device.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/About.PNG %})|
-
+|![](./images/Device No-device.PNG)|![](./images/About.PNG)|
 
 
 1-Account name, the account name you registered for Beagleprint login, it can also be used for device sharing.
@@ -29,4 +28,4 @@ The screen is an information screen displaying the Beagleprint app.They are the 
 
 ---
 
-### Next: [Device-Dash board](/just-the-docs/docs/Manual/Beagleprint%20Device%20Dash%20board)
+### Next: [Device-Dash board](/Beaglecam/docs/Manual/Beagleprint%20Device%20Dash%20board.md)

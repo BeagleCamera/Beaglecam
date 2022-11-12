@@ -12,7 +12,7 @@ nav_order: 3
 
 The screen is an information&control screen displaying the Printable Files (including .GCODE .GCO .G suffix file) in the BeagleCamera Micro SD card. At the same time, you can select the Gcode file in the phone to upload, and control the printing and deletion of the file.
 
-![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Dashboard-Printable Files List.png %})
+![](./images/PC/Dashboard-Printable Files List.png)
 
 3-Progress of Uploading files in%-shown only during the printing
 
@@ -27,4 +27,4 @@ The screen is an information&control screen displaying the Printable Files (incl
 _Note:In order to keep the content brief, the same content items will not be described again here. If you have any doubts, you can refer to the previous layout introduction._
 
 ---
-### Next: [Timelapse Videos](/just-the-docs/docs/Manual/Browser%20Page%20layout-Timelapse%20Videos)
+### Next: [Timelapse Videos](/Beaglecam/docs/Manual/Browser%20Page%20layout-Timelapse%20Videos.md)

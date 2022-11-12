@@ -13,8 +13,7 @@ The screen is an Printer settings screen displaying the most important settings.
 
 |Generally|Modify the printer name|Artillery SW X2|
 |-|-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Printer settings - default.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Printer settings-modified saved.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Printer settings-example SW-X2-modify and save.PNG %})|
-
+|![](./images/Printer settings - default.PNG)|![](./images/Printer settings-modified saved.PNG)|![](./images/Printer settings-example SW-X2-modify and save.PNG)|
 
 1-Camera returns the video stream window, you can learn more about the printing situation (when you install the Camera next to the printer).
 
@@ -44,9 +43,8 @@ After the parameters such as Printer Brand/Printer Model are modified, a save bu
 
 |Not saved|Saved|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Manual/images/Printer settings-NO saved.PNG %})|![Ruby on Rails AWS]({% link /docs/Manual/images/Printer settings-modified saved.PNG %})|
-
+|![](./images/Printer settings-NO saved.PNG)|![](./images/Printer settings-modified saved.PNG)|
 
 
 ---
-### Next: [Device-Camera setting](/just-the-docs/docs/Manual/Beagleprint%20Device%20Camera%20settings)
+### Next: [Device-Camera setting](/Beaglecam/docs/Manual/Beagleprint%20Device%20Camera%20settings.md)

@@ -12,13 +12,11 @@ You can learn about the Camera's cable installation, the Camera's power supply a
 
 
 
-![Ruby on Rails AWS]({% link /docs/Quick Start for Beagle Camera/Install the cable/images/Install the cable.png %})
-
-
+![](./images/Install the cable.png)
 
 
 _Note: Before connecting the Camera to the printer, make sure the printer is turned on_
 
 
 ----
-### Next: [Install Beagleprint](/just-the-docs/docs/Quick%20Start%20for%20Beagle%20Camera/Install%20Beagleprint)
+### Next: [Install Beagleprint](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Install%20Beagleprint.md)

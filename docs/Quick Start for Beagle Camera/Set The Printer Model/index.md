@@ -15,8 +15,7 @@ _Note: After setting, don't forget to click the save button_
 
 |Before|After|
 |-|-|
-|![Ruby on Rails AWS]({% link /docs/Quick Start for Beagle Camera/Set The Printer Model/images/Set The Printer Model_Before.PNG %})|![Ruby on Rails AWS]({% link /docs/Quick Start for Beagle Camera/Set The Printer Model/images/Set The Printer Model_After.PNG %})|
-
+|![](./images/Set The Printer Model_Before.PNG)|![](./images/Set The Printer Model_After.PNG)|
 
 ----
-### Next: [Upload Gcode File](/just-the-docs/docs/Quick%20Start%20for%20Beagle%20Camera/Upload%20Gcode%20File)
+### Next: [Upload Gcode File](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Upload%20Gcode%20File.md)

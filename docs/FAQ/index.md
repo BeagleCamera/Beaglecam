@@ -7,7 +7,7 @@ nav_order: 6
 ## FAQ
 
 ### What is BeagleCamera?
-*BeagleCamera is a dual-purpose camera that allows you to remotely monitor and control your 3D printer, such as uploading files, starting printing, monitoring printing progress, etc., while also creating time-lapse videos easily. [Learn more here](/just-the-docs/docs/about)
+*BeagleCamera is a dual-purpose camera that allows you to remotely monitor and control your 3D printer, such as uploading files, starting printing, monitoring printing progress, etc., while also creating time-lapse videos easily. [Learn more here](/Beaglecam/docs/about.md)
 
 
 ### How to use BeagleCamera?
@@ -16,23 +16,23 @@ nav_order: 6
 Next, you can log in to the BeagleCamera web page via BeaglePrint (or via a PC
 ) upload the Gcode file and start printing, and monitor the printing progress through the video stream returned by the camera anytime and anywhere.
 
-For more details on BeagleCamera functions, you can check the [Manual](/just-the-docs/docs/Manual) document below.
+For more details on BeagleCamera functions, you can check the [Manual](/Beaglecam/docs/Manual.md) document below.
 
 ### How to log in to BeagleCamera?
 You can open the Bealgeprint app on your phone, log in to your account, and monitor the connected printer through the Beagle Camera.
 You can also access the BeagleCamera on the PC (within the same LAN as the Camera) using the google browser and enter the ip address to monitor the connected printer.
 
-How to get the camera's ip address, see [Camera Information](/just-the-docs/docs/Manual/Beagleprint%20Device%20Camera%20settings).
-How to monitor the same BeagleCamera with multiple mobile phones, see [Share to Your Friends](/just-the-docs/docs/Manual/Beagleprint%20Device%20Camera%20settings).
+How to get the camera's ip address, see [Camera Information](/Beaglecam/docs/Manual/Beagleprint%20Device%20Camera%20settings.md).
+How to monitor the same BeagleCamera with multiple mobile phones, see [Share to Your Friends](/Beaglecam/docs/Manual/Beagleprint%20Device%20Camera%20settings.md).
 ### How to set up BeagleCamera for the first time?
 *Connect the BealgeCamera power cable, and connect the Beagle Camera to the printer.
 Install Beagleprint on your mobile phone, then add and bind BeagleCamera through QR Scan Configuration, and set the connected printer model.
-For more details, you can view the [unboxing video](https://www.youtube.com/watch?v=0RWGPZtJCKM&t=87s), and if you encounter problems, you can contact us [for help]().
+For more details, you can view the [unboxing video](https://www.youtube.com/watch?v=0RWGPZtJCKM&t=87s), and if you encounter problems, you can contact us [for help](/Beaglecam/docs/Support.md).
 
 ### How to access the BeagleCamera remotely?
 *Beagleprint is a mobile app, you can use your mobile phone to download and install it on GooglePlay or APPstore, and add BeagleCamera to access BeagleCamera remotely.
 
-.How to add BeagleCamera to Beagleprint can check [Camera networking](/just-the-docs/docs/Quick%20Start%20for%20Beagle%20Camera/Camera%20Networking), if you encounter problems, you can contact us [for help]().
+.How to add BeagleCamera to Beagleprint can check [Camera networking](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Camera%20Networking.md), if you encounter problems, you can contact us [for help](/Beaglecam/docs/Support.md).
 
 ### What does the BeagleCamera need?
 *To use the BeagleCamera, you need a 3d printer and a mobile phone to install the Bealgeprint app, add the BeagleCamera and use it in the 2.4GHz Wi-Fi network environment.
@@ -49,7 +49,7 @@ The USB cable for serial communication is recommended to choose a USB cable dedi
 Finally, there are some printers that don't have full functionality of the BeagleCamera (for example, some printers may require some setup [eg CR-10 Smart requires a cable to be removed]), in order for the BeageleCamera to connect and use it, so the best way is to add our [Facebook community](https://www.facebook.com/groups/mintion) and find out more with our members.
 
 ### How many printers can I run with the Beagle Camera?
-*You can only run one printer at a time with BeagleCamera, but you can add multiple BeagleCameras through Beagleprint to run multiple printers [Device](/just-the-docs/docs/Manual/Beagleprint%20Device).
+*You can only run one printer at a time with BeagleCamera, but you can add multiple BeagleCameras through Beagleprint to run multiple printers [Device](/Beaglecam/docs/Manual/Beagleprint%20Device.md).
 
 In addition, a BeagleCamera can be connected to multiple printers, as long as it is not at the same time, for example, after printing is completed, it can be connected to other printers for control and printing.
 
@@ -66,11 +66,11 @@ Of course, BeagleCamera supports Micro SD card with FAT32 system within 128GB.
 ### BeagleCamera camera parameters?
 *The Beagle camera uses a fixed lens with a focal length of 20cm. If you want to adjust the distance of the camera, you can refer to this article to adjust the lens of the Beagle camera.
 
-The camera is blurry, out of focus, and blurry no matter how you move, you can click full screen and find the SD\HD toggle button [from Beagleprint](just-the-docs/docs/Manual/Beagleprint%20Device%20Video%20window). SD is smoother, HD is high definition.
+The camera is blurry, out of focus, and blurry no matter how you move, you can click full screen and find the SD\HD toggle button [from Beagleprint](Beaglecam/docs/Manual/Beagleprint%20Device%20Video%20window.md). SD is smoother, HD is high definition.
 
 ### How to make BeagleCamera generate time-lapse photography?
 Use BeagleCamera's currently compatible slicing software [click here to learn more] to generate a Gcode file, upload it to the BeagleCamera, and start printing. When the printing is complete,
-Camera supports two time-lapse photography modes "Clean Timelapse Video" (moving the nozzle to take a snapshot) "Nomal Timelapse Video" (no moving the nozzle to take a snapshot), [Learn more here](/just-the-docs/docs/Manual/Beagleprint%20Device%20Camera%20settings).
+Camera supports two time-lapse photography modes "Clean Timelapse Video" (moving the nozzle to take a snapshot) "Nomal Timelapse Video" (no moving the nozzle to take a snapshot), [Learn more here](/Beaglecam/docs/Manual/Beagleprint%20Device%20Camera%20settings.md).
 Camera enables "Clean Timelapse Video" by default
 
 ### The APP prompts that the QR configuration fails, but the Camera voice prompts "Camera success Wi-Fi" (the Wi-Fi indicator is always on)
@@ -83,4 +83,4 @@ If it still can't be solved, you can try [AP configuration](https://www.youtube.
 There are two ways to reset the Camera, hard reset and soft reset.
 Hard reset is by pressing the camera [reset button](https://drive.google.com/file/d/1K6h7gDnzENew0jehn5xIJDydq4kbeN5e/view?usp=share_link), and keep it until you hear the camera playing the voice "Camera is success reset", and wait for it to restart automatically, it will play after the restart is successful "Camera is ready Wi-Fi configuration"[>= V1.1.2]/"Camera is ready AP configuration"[< V1.1.2], it means the camera is reset successfully
 
-Soft reset is done through the [reset button](/just-the-docs/docs/Manual/Beagleprint%20Device%20Camera%20settings), click it, and wait for it to restart automatically, after a successful restart, it will play "Camera is ready Wi-Fi configuration" [>= V1. 1.2]/"Camera is ready AP configuration"[< V1.1.2]/"Camera is success Wi-Fi"[Save Wi-Fi], it means the camera is reset successfully
+Soft reset is done through the [reset button](/Beaglecam/docs/Manual/Beagleprint%20Device%20Camera%20settings.md), click it, and wait for it to restart automatically, after a successful restart, it will play "Camera is ready Wi-Fi configuration" [>= V1. 1.2]/"Camera is ready AP configuration"[< V1.1.2]/"Camera is success Wi-Fi"[Save Wi-Fi], it means the camera is reset successfully
