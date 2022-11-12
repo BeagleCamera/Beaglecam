@@ -12,7 +12,7 @@ nav_order: 2
 
 The screen is an information&control screen displaying the actual/desired temperature of the sprinkler and hotbed. They are the desired temperature of the sprinkler & heated bed that can be entered (3, 4) and the actual temperature of the sprinkler & heated bed is known from the temperature graph (5 ).
 
-![Ruby on Rails AWS]({% link /docs/Manual/images/PC/Dashboard-Temperature Curve.png %})
+![](./images/PC/ashboard-Temperature Curve.png)
 
 3-Hot End Temperature-you can set the target temperature you want the Hot End to heat
 
