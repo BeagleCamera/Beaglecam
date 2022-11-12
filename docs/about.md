@@ -58,4 +58,4 @@ We currently know/test that the Beagle Camera works properly with these printers
 
 ---
 
-### Next: [Choosing a Camera](./docs/hardware.md)
+### Next: [Choosing a Camera](../docs/hardware.md)
