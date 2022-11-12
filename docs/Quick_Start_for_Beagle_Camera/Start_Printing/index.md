@@ -28,4 +28,4 @@ Find the Printable Files List, you can slide to find the file you want to print,
 
 ----
 
-### Next: [Download Time Lapse](../Download_Time%20Lapse/index.md)
+### Next: [Download Time Lapse](../Download_Time_Lapse/index.md)

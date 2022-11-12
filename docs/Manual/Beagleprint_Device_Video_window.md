@@ -23,7 +23,7 @@ This Screen is mainly for some settings of the video stream, such as sharpness, 
 ![](./images/Device-Video window-SD.PNG)
 
 ## HD
-![](./images/Device-Video window-HD1.png)
+![](./images/Device_Video window_HD_.png)
 
 
 4-Sound switch, after it is turned on, the sound of the area where the Camera is located can be transmitted to the mobile phone or the PC device that logs in the Camera.
