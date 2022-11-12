@@ -12,9 +12,9 @@ You can learn about the structural components of the Camera through the followin
 
 
 |--|--|--|
-|![Ruby on Rails AWS]({% link /docs/Quick Start for Beagle Camera/Camera Introduction/images/Camera Introduction1.png %})|![Ruby on Rails AWS]({% link /docs/Quick Start for Beagle Camera/Camera Introduction/images/Camera Introduction2.png %})|![Ruby on Rails AWS]({% link /docs/Quick Start for Beagle Camera/Camera Introduction/images/Camera Introduction3.png %})|
+|![](./images/Camera Introduction1.png)|![](./images/Camera Introduction2.png)|![](./images/Camera Introduction3.png)|
 
 
 
 ----
-### Next: [Install the cable](/just-the-docs/docs/Quick%20Start%20for%20Beagle%20Camera/Install%20the%20cable)
+### Next: [Install the cable](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Install%20the%20cable)
