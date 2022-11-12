@@ -1,0 +1,48 @@
+//
+// Beagle Camera Customizations
+//
+
+//
+// Color Definitions
+//
+$grey-dk-400: #2c2f33;
+$grey-dk-500: #23272a;
+$white-400: #00923f;
+$white-500: #005f29;
+$Beagle-white-30: #70d89d;
+$Beagle-white-40: #3af78c;
+$Beagle-white-50: #00fc6d;
+$Beagle-white-60: #00c555;
+$Beagle-white-70: #019c45;
+$Beagle-white-80: #01d85e;
+$Beagle-link-purple: #661aff;
+
+//
+// Body Elements
+//
+$body-background-color: $grey-dk-400;
+$body-heading-color: $Beagle-white-60;
+$btn-primary-color: $Beagle-white-40;
+$link-color: $Beagle-white-40;
+
+// Copied from JTD dark theme
+$sidebar-color: $grey-dk-500;
+$border-color: $grey-dk-200;
+
+$body-text-color: $grey-lt-300;
+$nav-child-link-color: $grey-dk-000;
+$search-result-preview-color: $grey-dk-000;
+$base-button-color: $grey-dk-250;
+
+$code-background-color: $grey-dk-250;
+$search-background-color: $grey-dk-250;
+$table-background-color: $grey-dk-250;
+$feedback-color: darken($sidebar-color, 3%);
+
+.warning {
+    padding: 10px;
+    background-color: darken($Beagle-white-80, 30%);
+    border-width: 1px;
+    border-color: $Beagle-white-50;
+    border-style: solid;    
+  }
