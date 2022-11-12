@@ -121,4 +121,4 @@ Night vision function, there are two modes, color night vision, slight ambient l
 |![](./images/Setting-Balck-Night Version.PNG)|![](./images/Setting-Night Version.PNG)|
 
 ---
-### Next: [Device-Video window](/Beaglecam/docs/Manual/Beagleprint%20Device%20Video%20window.md)
+### Next: [Device-Video window](../Manual/Beagleprint%20Device%20Video%20window.md)

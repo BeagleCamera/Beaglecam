@@ -22,4 +22,4 @@ The screen is a Gcode file that reads screen displaying Gcode file G instruction
 _Note:In order to keep the content brief, the same content items will not be described again here. If you have any doubts, you can refer to the previous layout introduction._
 
 ---
-### Next: [Setting](/Beaglecam/docs/Manual/Browser%20Page%20Setting.md)
+### Next: [Setting](./Browser%20Page%20Setting.md)

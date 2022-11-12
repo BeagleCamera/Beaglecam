@@ -28,4 +28,4 @@ The screen is an information screen displaying the Beagleprint app.They are the 
 
 ---
 
-### Next: [Device-Dash board](/Beaglecam/docs/Manual/Beagleprint%20Device%20Dash%20board.md)
+### Next: [Device-Dash board](./Beagleprint%20Device%20Dash%20board.md)

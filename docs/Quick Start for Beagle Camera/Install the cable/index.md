@@ -19,4 +19,4 @@ _Note: Before connecting the Camera to the printer, make sure the printer is tur
 
 
 ----
-### Next: [Install Beagleprint](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Install%20Beagleprint.md)
+### Next: [Install Beagleprint](../Install%20Beagleprint/index.md)

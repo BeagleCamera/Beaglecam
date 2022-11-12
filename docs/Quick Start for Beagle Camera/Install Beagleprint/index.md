@@ -33,6 +33,6 @@ For Apple phones, you can search for "Beagleprint" in the app store to download 
 
 ----
 
-### Next: [QR Scan configuration](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Camera%20Networking.md)
+### Next: [QR Scan configuration](../Camera%20Networking/index.md)
 
 ----

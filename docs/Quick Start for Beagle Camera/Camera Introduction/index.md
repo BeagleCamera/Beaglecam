@@ -17,4 +17,4 @@ You can learn about the structural components of the Camera through the followin
 
 
 ----
-### Next: [Install the cable](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Install%20the%20cable.md)
+### Next: [Install the cable](../Install%20the%20cable/index.md)

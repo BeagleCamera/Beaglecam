@@ -30,4 +30,4 @@ Find the Printable Files List, find the upload file button, click to upload the 
 |-|-|
 |![](./images/Upload Gcode File-Before (2).png)|![](./images/Upload Gcode File-After (2).png)|
 ----
-### Next: [Start Printing](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Start%20Printing.md)
+### Next: [Start Printing](../Start%20Printing/index.md)

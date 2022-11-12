@@ -59,4 +59,4 @@ You can touch a single device for 3 seconds to trigger a pop-up window to confir
 |![](./images/Device One-device.PNG)|![](./images/Device One-device-Delete.PNG)|
 
 ---
-### Next: [Desktop-FAQ](/Beaglecam/docs/Manual/Beagleprint%20FAQ.md)
+### Next: [Desktop-FAQ](./Beagleprint%20FAQ.md)

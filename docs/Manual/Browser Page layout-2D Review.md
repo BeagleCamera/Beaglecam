@@ -47,4 +47,4 @@ This is a Gcode file preview page (2D), you can use this page to quickly check t
 _Note:In order to keep the content brief, the same content items will not be described again here. If you have any doubts, you can refer to the previous layout introduction._
 
 ---
-### Next: [3D Review](/Beaglecam/docs/Manual/Browser%20Page%20layout-3D%20Review.md)
+### Next: [3D Review](./Browser%20Page%20layout-3D%20Review.md)

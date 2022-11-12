@@ -16,4 +16,4 @@ This layout will show how to do [Camera Online Upgrade](https://www.youtube.com/
 |![](./images/Device No-device.PNG)|![](./images/Upgrade.PNG)|
 
 ---
-### Next: [Desktop-About](/Beaglecam/docs/Manual/Beagleprint%20About.md)
+### Next: [Desktop-About](./Beagleprint%20About.md)

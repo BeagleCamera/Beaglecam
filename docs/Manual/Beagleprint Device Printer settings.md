@@ -47,4 +47,4 @@ After the parameters such as Printer Brand/Printer Model are modified, a save bu
 
 
 ---
-### Next: [Device-Camera setting](/Beaglecam/docs/Manual/Beagleprint%20Device%20Camera%20settings.md)
+### Next: [Device-Camera setting](./Beagleprint%20Device%20Camera%20settings.md)

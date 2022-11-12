@@ -14,4 +14,4 @@ How to contact our support: First, check out the [FAQ](/Beaglecam/docs/FAQ) and 
 
 
 ----
-### Next: [Specification](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Specification.md)
+### Next: [Specification](../Specification/index.md)

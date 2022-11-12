@@ -29,4 +29,4 @@ Find the Timelapse Videos, you can scroll the middle of the mouse or click the s
 
 
 ----
-### Next: [Get Support](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Get%20Support.md)
+### Next: [Get Support](../Get%20Support/index.md)

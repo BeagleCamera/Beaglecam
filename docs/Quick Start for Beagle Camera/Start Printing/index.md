@@ -28,4 +28,4 @@ Find the Printable Files List, you can slide to find the file you want to print,
 
 ----
 
-### Next: [Download Time Lapse](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Download%20Time%20Lapse.md)
+### Next: [Download Time Lapse](../Download%20Time%20Lapse/index.md)

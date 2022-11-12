@@ -31,4 +31,4 @@ _Note:Back button in the upper left corner, Camera settings buttons in the upper
 
 
 ---
-### Next: [Device-Video list](/Beaglecam/docs/Manual/Beagleprint%20Device%20Video%20list.md)
+### Next: [Device-Video list](./Beagleprint%20Device%20Video%20list.md)

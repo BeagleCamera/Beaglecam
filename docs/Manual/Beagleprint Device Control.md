@@ -32,4 +32,4 @@ _Note:Back button in the upper left corner, Camera settings buttons in the upper
 7-Fan switch - control the fan on and off
 
 ---
-### Next: [Device-Printable Files List](/Beaglecam/docs/Manual/Beagleprint%20Device%20Printable%20Files%20List.md)
+### Next: [Device-Printable Files List](./Beagleprint%20Device%20Printable%20Files%20List.md)

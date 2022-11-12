@@ -23,4 +23,4 @@ The screen is an information&control screen displaying the video files in the Be
 _Note:In order to keep the content brief, the same content items will not be described again here. If you have any doubts, you can refer to the previous layout introduction._
 
 ---
-### Next: [2D Review](/Beaglecam/docs/Manual/Browser%20Page%20layout-2D%20Review.md)
+### Next: [2D Review](./Browser%20Page%20layout-2D%20Review.md)

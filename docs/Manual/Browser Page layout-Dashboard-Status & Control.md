@@ -75,4 +75,4 @@ During the printing process, the control of the motor and fan will become unavai
 12.Left Time-Estimated remaining print time
 
 ---
-### Next: [Dashboard-Temperature Curve](/Beaglecam/docs/Manual/Browser%20Page%20layout-Dashboard-Temperature%20Curve.md)
+### Next: [Dashboard-Temperature Curve](./Browser%20Page%20layout-Dashboard-Temperature%20Curve.md)

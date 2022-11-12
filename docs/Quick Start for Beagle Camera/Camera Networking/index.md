@@ -20,4 +20,4 @@ You can refer to the steps below to connect the camera to the network. [Instruct
 
 ----
 
-### Next: [Set The Printer Model](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Set%20The%20Printer%20Model.md)
+### Next: [Set The Printer Model](../Set%20The%20Printer%20Model/index.md)

@@ -18,4 +18,4 @@ _Note: After setting, don't forget to click the save button_
 |![](./images/Set The Printer Model_Before.PNG)|![](./images/Set The Printer Model_After.PNG)|
 
 ----
-### Next: [Upload Gcode File](/Beaglecam/docs/Quick%20Start%20for%20Beagle%20Camera/Upload%20Gcode%20File.md)
+### Next: [Upload Gcode File](../Upload%20Gcode%20File/index.md)

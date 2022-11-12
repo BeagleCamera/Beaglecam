@@ -12,7 +12,7 @@ nav_order: 2
 
 The screen is an information&control screen displaying the actual/desired temperature of the sprinkler and hotbed. They are the desired temperature of the sprinkler & heated bed that can be entered (3, 4) and the actual temperature of the sprinkler & heated bed is known from the temperature graph (5 ).
 
-![](./images/PC/ashboard-Temperature Curve.png)
+![](./images/PC/Dashboard-Temperature-Curve.png)
 
 3-Hot End Temperature-you can set the target temperature you want the Hot End to heat
 
@@ -33,4 +33,4 @@ The screen is an information&control screen displaying the actual/desired temper
 _Note:In order to keep the content brief, the same content items will not be described again here. If you have any doubts, you can refer to the previous layout introduction._
 
 ---
-### Next: [Dashboard-Printable Files List](/Beaglecam/docs/Manual/Browser%20Page%20layout-Dashboard-Printable%20Files%20List.md)
+### Next: [Dashboard-Printable Files List](./Browser%20Page%20layout-Dashboard-Printable%20Files%20List.md)

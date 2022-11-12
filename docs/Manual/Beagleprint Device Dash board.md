@@ -49,4 +49,4 @@ _Note:Back button in the upper left corner, Camera settings buttons in the upper
 
 
 ---
-### Next: [Device-Temperature](/Beaglecam/docs/Manual/Beagleprint%20Device%20Temperature.md)
+### Next: [Device-Temperature](./Beagleprint%20Device%20Temperature.md)

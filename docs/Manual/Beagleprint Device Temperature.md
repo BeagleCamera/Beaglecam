@@ -30,4 +30,4 @@ _Note:Back button in the upper left corner, Camera settings buttons in the upper
 6-Camera function button for connecting to the printer (Connect/Disconnect)
 
 ---
-### Next: [Device-Control](/Beaglecam/docs/Manual/Beagleprint%20Device%20Control.md)
+### Next: [Device-Control](./Beagleprint%20Device%20Control.md)

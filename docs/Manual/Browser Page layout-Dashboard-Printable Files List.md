@@ -27,4 +27,4 @@ The screen is an information&control screen displaying the Printable Files (incl
 _Note:In order to keep the content brief, the same content items will not be described again here. If you have any doubts, you can refer to the previous layout introduction._
 
 ---
-### Next: [Timelapse Videos](/Beaglecam/docs/Manual/Browser%20Page%20layout-Timelapse%20Videos.md)
+### Next: [Timelapse Videos](./Browser%20Page%20layout-Timelapse%20Videos.md)

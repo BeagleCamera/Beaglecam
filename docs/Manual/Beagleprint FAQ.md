@@ -16,4 +16,4 @@ This layout will show some guide articles from [Beagleprint Guidelines](https://
 |![](./images/Device No-device.PNG)|![](./images/FAQ.PNG)|
 
 ---
-### Next: [Desktop-Upgrade](/Beaglecam/docs/Manual/Beagleprint%20Upgrade.md)
+### Next: [Desktop-Upgrade](./Beagleprint%20Upgrade.md)

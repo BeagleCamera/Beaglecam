@@ -32,4 +32,4 @@ Operation method, move the mouse to the frame.
 _Note:In order to keep the content brief, the same content items will not be described again here. If you have any doubts, you can refer to the previous layout introduction._
 
 ---
-### Next: [Gcode Reading](/Beaglecam/docs/Manual/Browser%20Page%20layout-Gcode%20Reading.md)
+### Next: [Gcode Reading](./Browser%20Page%20layout-Gcode%20Reading.md)

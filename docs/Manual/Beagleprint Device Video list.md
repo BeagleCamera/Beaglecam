@@ -31,4 +31,4 @@ _Note:Back button in the upper left corner, Camera settings buttons in the upper
 
 
 ---
-### Next: [Device-Printer settings](/Beaglecam/docs/Manual/Beagleprint%20Device%20Printer%20settings.md)
+### Next: [Device-Printer settings](./Beagleprint%20Device%20Printer%20settings.md)
