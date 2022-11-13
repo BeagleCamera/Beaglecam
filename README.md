@@ -1,1 +1,1 @@
-Please to go the [documentation site](https://BeagleCam.github.io/Beaglecam-Documentation/)
+Please to go the [documentation site](https://beaglecamera.github.io/Beaglecam)
