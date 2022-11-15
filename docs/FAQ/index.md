@@ -84,3 +84,23 @@ There are two ways to reset the Camera, hard reset and soft reset.
 Hard reset is by pressing the camera [reset button](https://drive.google.com/file/d/1K6h7gDnzENew0jehn5xIJDydq4kbeN5e/view?usp=share_link), and keep it until you hear the camera playing the voice "Camera is success reset", and wait for it to restart automatically, it will play after the restart is successful "Camera is ready Wi-Fi configuration"[>= V1.1.2]/"Camera is ready AP configuration"[< V1.1.2], it means the camera is reset successfully
 
 Soft reset is done through the [reset button](../Manual/Beagleprint_Device_Camera_settings.md), click it, and wait for it to restart automatically, after a successful restart, it will play "Camera is ready Wi-Fi configuration" [>= V1. 1.2]/"Camera is ready AP configuration"[< V1.1.2]/"Camera is success Wi-Fi"[Save Wi-Fi], it means the camera is reset successfully
+
+
+### How do I take pictures of my prints to monitor print quality and issues?
+
+Currently Camera has two shooting modes: Normal Record Setting and Time Lapse Photography.
+
+The [Normal Record setting](../Manual/Beagleprint_Device_Camera_settings.md) is the normal recording function (simple understanding is to record the entire printing process), record the video, and pack the video file in a cycle of 10 minutes, and generate it in the Micro SD card. This function is still being perfected, so there is no app or pcweb way to download files for the time being.
+
+
+Time-lapse photography (recording pictures of each layer and finally rendering them into video) will reduce the print quality to a certain extent. At the same time, non-optimal settings may lead to a significant reduction in print quality.
+
+There are three states for the [time-lapse photography function](../Manual/Beagleprint_Device_Camera_settings.md), which are "Clean Timelapse Video", "Normal Timelapse Video" and "OFF".
+
+Camera defaults to "Clean Timelapse Video", which is a way to move the nozzle and take a snapshot, and it is also a mode that significantly reduces the print quality, and of course it is also a mode for creating better time-lapse photography.
+
+"Normal Timelapse Video" is a time-lapse photography mode that does not move the nozzle. Therefore, the action of this time-lapse photography is to take a snapshot (pause) on each layer and then continue printing. The print quality of this mode is higher than " "Clean Timelapse Video" has little impact, while time-lapse photography is generated, and the viewing experience of time-lapse videos may be moderate.
+
+The last is "OFF", which turns off the time-lapse photography function.
+
+Finally, according to your needs, it is best to turn on the "Normal Record Video" mode, and at the same time, set the time-lapse photography to "OFF". For now, considering the viewability of video files, it is recommended that you set "Clean Timelapse Video" to "Normal Timelapse Video".
