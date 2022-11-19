@@ -104,3 +104,7 @@ Camera defaults to "Clean Timelapse Video", which is a way to move the nozzle an
 The last is "OFF", which turns off the time-lapse photography function.
 
 Finally, according to your needs, it is best to turn on the "Normal Record Video" mode, and at the same time, set the time-lapse photography to "OFF". For now, considering the viewability of video files, it is recommended that you set "Clean Timelapse Video" to "Normal Timelapse Video".
+
+### How to solve the "This device has been added by another account" prompt in Wi-Fi Configuration?
+
+Click the "+" sign in the upper right corner of Beagleprint, and then select Search in LAN. When the screen is displayed on the device, take a screenshot and send it to the support@mintion.net mailbox, and wait for the email message within 24 hours (note, if 24 hours If you haven't received our email, you can go to the "Trash" to find it(Possibly a mail misclassification process).
